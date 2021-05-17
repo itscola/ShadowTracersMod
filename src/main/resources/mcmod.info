@@ -1,0 +1,16 @@
+[
+{
+  "modid": "shadowtracersmod",
+  "name": "Shadow Tracers Mod",
+  "description": "Tracers Mod for Minecraft",
+  "version": "1.0.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["_shadow_storm_"],
+  "credits": "_shadow_storm_ for making this mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
